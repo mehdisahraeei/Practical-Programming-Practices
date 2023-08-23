@@ -8,6 +8,11 @@ public:
 
     //bugs about buffer overflow strcat and strcpy
 
+    void arr_simple() {
+        char dst[3];
+        dst[10] = 'z';  // must be showed error, because there's no 10 house in mem
+        std::cout << dst[1] << std::endl;
+    }
 
     void concat_str() {
         char dst[20] = "one etc ..........";
