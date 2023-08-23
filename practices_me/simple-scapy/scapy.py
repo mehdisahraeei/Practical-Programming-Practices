@@ -15,5 +15,5 @@ L1.show()
 
 sniff(iface="lo",prn=lambda x:x.show()) #listening for ping lo ip
 sniff(filter="src 192.168.1.107",count=3) #listening for ping lo ip and 3 packs
-x.nsummarys()
+#nsummarys()
 
