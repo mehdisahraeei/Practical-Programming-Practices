@@ -1,0 +1,1 @@
+According to the capture file, the destination ports of the udp protocol have different addresses and this is suspicious. In udp, the data can be placed in dport in addition to the data sent(load section), that's why we find it and get it with ski code and the hacking is done.
