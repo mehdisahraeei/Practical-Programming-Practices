@@ -1,0 +1,5 @@
+,name
+0,PING blogfa.com (158.69.187.205) 56(84) bytes of data.
+1,64 bytes from ip205.ip-158-69-187.net (158.69.187.205): icmp_seq=1 ttl=109 time=307 ms
+2,64 bytes from ip205.ip-158-69-187.net (158.69.187.205): icmp_seq=2 ttl=109 time=307 ms
+3,64 bytes from ip205.ip-158-69-187.net (158.69.187.205): icmp_seq=3 ttl=109 time=227 ms
