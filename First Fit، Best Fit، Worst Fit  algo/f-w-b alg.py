@@ -1,3 +1,5 @@
+#implementation
+
 # First Fit Algorithm
 def first_fit(blocks, processes):
     allocation = [-1] * len(processes)
